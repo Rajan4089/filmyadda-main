@@ -31,8 +31,7 @@ const FooterComponent = ()=>{
                         </Col>
                         <Col className='col-12'>
                             <div className="footerCopyright">
-                                <small>2023. Developed and Designed  by Rajan, Anurag Pal
-                                    .</small>
+                                <small>2023. Developed and Designed  by Rajan, Anurag Pal.</small>
                             </div>
                         </Col>
                    </Row>
